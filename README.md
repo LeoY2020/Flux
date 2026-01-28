@@ -34,7 +34,7 @@
 
 4. 渲染算法：
 
-  - Stroke Dash Offset: 实现“白描”式的书写动画效果。
+  - Stroke Dash Offset: 实现书写动画效果。
 
   - Index-based Filtering: 实现静态步骤图中的虚实对比渲染。
 
@@ -46,7 +46,7 @@
 
 克隆仓库：
 
-git clone [https://github.com/your-username/flux-hanzi.git](https://github.com/your-username/flux-hanzi.git)
+git clone [https://github.com/leoy2020/flux.git](https://github.com/leoy2020/flux.git)
 
 
 进入目录：
@@ -55,6 +55,16 @@ cd flux-hanzi
 
 
 在浏览器中打开 index.html。
+
+### 使用互联网打开（推荐）
+
+您可以使用官方提供的网站：
+
+[https://leoy2020.github.io/flux](https://leoy2020.github.io/flux/)
+
+[https://flux-leoy.netlify.app](https://flux-leoy.netlify.app/)
+
+[https://flux-leoy.vercel.app](https://flux-leoy.vercel.app/)
 
 ## 📖 离线字库示例
 
