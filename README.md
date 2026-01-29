@@ -46,13 +46,14 @@
 
 克隆仓库：
 
+```powershell
 git clone [https://github.com/leoy2020/flux.git](https://github.com/leoy2020/flux.git)
-
+```
 
 进入目录：
-
-cd flux-hanzi
-
+```powershell
+cd flux
+```
 
 在浏览器中打开 index.html。
 
